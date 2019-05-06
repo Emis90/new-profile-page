@@ -1,0 +1,40 @@
+body {
+	margin: 50px;
+    text-align: center;
+
+    
+}
+
+div {
+
+    font-family: Verdana, monospace;
+	width: 900px;
+	height: 100px;
+	text-align: center;
+	background-color: rgba(114, 193, 240, .8);
+	word-wrap: break-word;
+	border: 20px solid #BA95BD ;
+	display: inline-block;
+}
+
+h3 {
+	padding: 10px 0px 0px 0px;
+
+}
+
+p {
+	padding: 10px 10px 30px 5px;
+	color:#665544;
+}
+ a {
+ 	padding: 5px 20px 0px 0px;
+ }
+
+
+footer {
+	float: left;
+}
+
+
+
+
